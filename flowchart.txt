@@ -1,0 +1,30 @@
+1. Importing the packages
+2. Exploring the dataset - Diabetes Health Data
+3. data processing using pandas dataframe
+4. visualization using seaborn & matplotlib
+5. Feature Selection and Data Splitting into train and test
+6. building the model
+	- SVM
+	- Random Forest
+	- Decision Tree
+	- Naive Bayes
+	- KNN
+	- Voting Classifier
+        - CNN
+        - LSTM
+        - RNN
+	
+7. training the model
+8. building the model with Voting Classifier since it gives better score comparing with Other Models 
+9. Flask Framework with Sqlite for signup and signin
+10. importing the packages
+11. User gives input as Feature Values 
+12. the given input is preprocessed for prediction
+13. trained model is used for prediction
+14. final outcome is displayed through frontend
+
+Note:
+
+Extension - Voting Classifier, Decision Tree , Random Forest, CNN, LSTM , and RNN  is build as Extension for feature values
+and Decision Tree is used for prediction since we it gives better Accuracy score value comparing with other Models
+
